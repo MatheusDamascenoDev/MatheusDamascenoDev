@@ -12,7 +12,7 @@
 
 <p align="left"> :briefcase: <strong>Ferramentas:</strong>
   <ul>
-    <li>VSCode</li>
+    <li>Visual Studio Code</li>
   </ul>
 </p>
 
