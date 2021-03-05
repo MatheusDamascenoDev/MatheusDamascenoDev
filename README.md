@@ -18,8 +18,8 @@
 
 <p align="left" > <strong> :books: Aprendendo:</strong>
   <ul>
-    <li> :technologist: Desenvolvimento Web</li>
-    <li> :arrow_up: ReactJS</li>
+    <li>  Desenvolvimento Web</li>
+    <li>  ReactJS</li>
   </ul>
 </p>
 
