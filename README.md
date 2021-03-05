@@ -10,14 +10,6 @@
   </ul>
 </p>
 
-<p align="left"> :rocket: <strong>Minha Stack:</strong><br>
-  <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
-  </ul>
-</p>
-
 <p align="left"> :briefcase: <strong>Ferramentas:</strong>
   <ul>
     <li>VSCode</li>
