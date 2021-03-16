@@ -33,4 +33,4 @@
   </a>
 </p>  
  
- ![Matheus Damasceno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus&show_icons=true&theme=radical)
+ ![Matheus Damasceno's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusDamascenoDev&show_icons=true&theme=radical)
