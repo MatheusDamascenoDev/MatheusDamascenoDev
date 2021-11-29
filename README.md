@@ -2,7 +2,7 @@
 
 # Hi There, I'm Matheus! 👋
 
-<p align="left"> :rocket: <strong>Minha Stack:</strong><br>
+<p align="left"> :rocket: <strong>My Stacks:</strong><br>
   <ul>
     <li>HTML</li>
     <li>CSS</li>
@@ -10,15 +10,15 @@
   </ul>
 </p>
 
-<p align="left"> :briefcase: <strong>Ferramentas:</strong>
+<p align="left"> :briefcase: <strong>Developer tool:</strong>
   <ul>
     <li>Visual Studio Code</li>
   </ul>
 </p>
 
-<p align="left" > <strong> :books: Aprendendo:</strong>
+<p align="left" > <strong> :books: Learning:</strong>
   <ul>
-    <li>  Desenvolvimento Web</li>
+    <li>  Web Development</li>
     <li>  ReactJS</li>
   </ul>
 </p>
