@@ -7,6 +7,7 @@
     <li>HTML</li>
     <li>CSS</li>
     <li>JavaScript</li>
+    <li>ReactJS</li>
   </ul>
 </p>
 
@@ -18,8 +19,8 @@
 
 <p align="left" > <strong> :books: Learning:</strong>
   <ul>
-    <li>  Web Development</li>
-    <li>  ReactJS</li>
+    <li>Web Development</li>
+    <li>NodeJS</li>
   </ul>
 </p>
 
