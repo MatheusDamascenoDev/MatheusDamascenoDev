@@ -4,10 +4,10 @@
 
 <p align="left"> :rocket: <strong>My Stacks:</strong><br>
   <ul>
-    <li>HTML</li>
-    <li>CSS</li>
     <li>JavaScript</li>
     <li>ReactJS</li>
+    <li>Styled-Components</li>
+    <li>NodeJS</li>
   </ul>
 </p>
 
@@ -20,7 +20,7 @@
 <p align="left" > <strong> :books: Learning:</strong>
   <ul>
     <li>Web Development</li>
-    <li>NodeJS</li>
+    <li>TypeScript</li>
   </ul>
 </p>
 
