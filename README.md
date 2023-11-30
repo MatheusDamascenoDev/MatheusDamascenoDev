@@ -7,7 +7,7 @@
     <li>TypeScript</li>
     <li>ReactJS</li>
     <li>Styled-Components</li>
-    <li>Material UI</li>li>
+    <li>Material UI</li>
     <li>NestJS</li>
   </ul>
 </p>
