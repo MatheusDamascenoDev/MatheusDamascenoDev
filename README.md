@@ -4,10 +4,11 @@
 
 <p align="left"> :rocket: <strong>My Stacks:</strong><br>
   <ul>
-    <li>JavaScript</li>
+    <li>TypeScript</li>
     <li>ReactJS</li>
     <li>Styled-Components</li>
-    <li>NodeJS</li>
+    <li>Material UI</li>li>
+    <li>NestJS</li>
   </ul>
 </p>
 
@@ -19,8 +20,8 @@
 
 <p align="left" > <strong> :books: Learning:</strong>
   <ul>
-    <li>Web Development</li>
-    <li>TypeScript</li>
+    <li>Mobile APP</li>
+    <li>React Native</li>
   </ul>
 </p>
 
