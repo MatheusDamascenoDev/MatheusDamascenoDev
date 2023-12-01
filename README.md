@@ -31,7 +31,7 @@
   </a>
 
   <a href="https://portfolio-matheusdamasceno.vercel.app/" alt="Repository">
-    <p>Repositório</p>
+    Repositório
   </a>
 
   <a href="https://www.linkedin.com/in/matheus-damasceno-636845173/" alt="LinkedIn">
