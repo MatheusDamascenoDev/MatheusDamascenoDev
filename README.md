@@ -31,7 +31,7 @@
   </a>
 
   <a href="https://portfolio-matheusdamasceno.vercel.app/" alt="Repository">
-    <img src="https://img.shields.io/badge/Repositório?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Repositório-8A2BE2"/>
   </a>
 
   <a href="https://www.linkedin.com/in/matheus-damasceno-636845173/" alt="LinkedIn">
