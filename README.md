@@ -8,7 +8,7 @@
     <li>ReactJS</li>
     <li>Styled-Components</li>
     <li>Material UI</li>
-    <li>NestJS</li>
+    <li>NodeJS</li>
   </ul>
 </p>
 
@@ -22,6 +22,8 @@
   <ul>
     <li>Mobile APP</li>
     <li>React Native</li>
+    <li>NextJS</li>
+    <li>NestJs</li>
   </ul>
 </p>
 
