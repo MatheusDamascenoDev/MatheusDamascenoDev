@@ -28,15 +28,15 @@
 </p>
 
 <p align="left">
-  <a href="mailto:matheusdjaques@gmail.com" alt="Gmail">
+  <a href="mailto:matheusdamascenodev@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://portfolio-matheusdamasceno.vercel.app/" alt="Repository">
+  <a href="[https://portfolio-matheusdamasceno.vercel.app/](https://portfolio-matheusdamasceno.vercel.app/)" alt="Repository">
     <img src="https://img.shields.io/badge/Repositório-8A2BE2"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/matheus-damasceno-636845173/" alt="LinkedIn">
+  <a href="[https://www.linkedin.com/in/matheus-damasceno-636845173/](https://www.linkedin.com/in/matheus-damascenoj/)" alt="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
   </a>
   
