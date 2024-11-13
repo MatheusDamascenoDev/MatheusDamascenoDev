@@ -23,7 +23,6 @@
     <li>Mobile APP</li>
     <li>React Native</li>
     <li>NextJS</li>
-    <li>NestJs</li>
   </ul>
 </p>
 
