@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/badge/Repositório-8A2BE2"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/matheus-damasceno-636845173/" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/matheus-damascenoj/" alt="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
   </a>
   
