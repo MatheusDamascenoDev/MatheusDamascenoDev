@@ -6,23 +6,24 @@
   <ul>
     <li>TypeScript</li>
     <li>ReactJS</li>
+    <li>NextJS</li>
     <li>Styled-Components</li>
-    <li>Material UI</li>
-    <li>NodeJS</li>
+    <li>TailwindCSS</li>
+    <li>NodeJS(Express)</li>
   </ul>
 </p>
 
 <p align="left"> :briefcase: <strong>Developer tool:</strong>
   <ul>
     <li>Visual Studio Code</li>
+    <li>Git/GitHub</li>
+    <li>Figma</li>
   </ul>
 </p>
 
 <p align="left" > <strong> :books: Learning:</strong>
   <ul>
-    <li>Mobile APP</li>
     <li>React Native</li>
-    <li>NextJS</li>
   </ul>
 </p>
 
